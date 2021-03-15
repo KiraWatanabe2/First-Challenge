@@ -56,7 +56,7 @@ For now i want to learn the basics and fundaments of css html and javascript. I'
 
 ## Author
 
-- Website - [Add your name here](https://kirawatanabe2.github.io/First-Challenge/)
+- Website - [KiraWatanabe-solution](https://kirawatanabe2.github.io/First-Challenge/)
 - Frontend Mentor - [Dr.Angela](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/)
 
 
