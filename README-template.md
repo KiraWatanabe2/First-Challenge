@@ -51,7 +51,7 @@ For now i want to learn the basics and fundaments of css html and javascript. I'
 ### Useful resources
 
 - [CSS resource](https://developer.mozilla.org/) - This help me understanding the elements and properties of css.
-- [CSS resource HTML resource](https://www.w3schools.com/ - This website is awsome also, it really provide many example. I can recommend this to everyone, this a great source when you are learning programming.
+- [CSS resource HTML resource](https://www.w3schools.com/ - This website is awsome also, it really provide many example. I would love to recommend this to everyone, this a great source when you are learning programming.
 
 
 ## Author
