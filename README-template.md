@@ -11,7 +11,7 @@
 
 ### Links
 - github files: [source code](https://github.com/KiraWatanabe2/First-Challenge.git)
-- Solution URL: [KiraWatanabe2 (solution)](https://your-solution-url.com)
+- Solution URL: [KiraWatanabe2 (solution)](https://kirawatanabe2.github.io/First-Challenge/)
 
 ## My process
 
